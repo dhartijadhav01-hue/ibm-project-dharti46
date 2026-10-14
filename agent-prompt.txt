@@ -1,0 +1,6 @@
+Project: IBM-Project-Dharti
+Platform: IBM Watsonx.ai and IBM Cloud
+Agent Type: AI Assistant built using Watsonx Agent Builder
+Tools Used: Watsonx.ai Studio, IBM Granite Model, IBM Cloud Object Storage
+Description: This agent is built to document a q&a rag agent to create a recipe
+It uses IBM Watsonx LLMs to answer queries.
